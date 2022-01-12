@@ -1,5 +1,3 @@
-# STM32FlowMeter_SCA100T
-
 #### 项目介绍
 项目：STM32FlowMeter_SCA100T
 硬件：Hw2
